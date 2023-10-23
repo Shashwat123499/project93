@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+    font-style: "Times New Roman";
+    text-align: center;
+
+}
+
+#div_user_name {
+    background-color: white;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 32%;
+    margin-top : 4%;
+}
+
+#user_name {
+    width: 60%;
+    margin-bottom: 5px;
+}
+
+h1 {
+    margin-top: 10%;
+}
